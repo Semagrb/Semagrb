@@ -22,6 +22,7 @@ Welcome to my coding wonderland! I'm a passionate software engineer with a knack
 - 🎵 Coding to the rhythm of my favorite tunes.
 - 🌌 Exploring the vast universe of algorithms and data structures.
 - 🌈 Turning complex problems into elegant solutions.
+- "The world's first computer programmer was Ada Lovelace, who wrote the world's first algorithm intended for implementation on Charles Babbage's Analytical Engine. She is often regarded as the world's first computer programmer, making her the original coding pioneer!"
 
 ## 📫 Get in Touch
 
