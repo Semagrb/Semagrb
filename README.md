@@ -28,7 +28,7 @@ Welcome to my coding wonderland! I'm a passionate software engineer with a knack
 
 Let's connect and collaborate! Feel free to reach out for discussions, project ideas, or just to say hi.
 
-- 📧 Email: fithisalma@gmail.com
+- 📧 Email: salmafithi@protonmail.com 
 - 🐦 Twitter: (https://twitter.com/fithisalma)
 - 💼 LinkedIn: (https://t.co/f7YMmxjPzI)
 
