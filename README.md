@@ -1,4 +1,4 @@
-# 👩‍💻 Hello mundo! I'm Salma 👩‍💻
+# 👩‍💻 Hello mundo! 👩‍💻
 
 ![Animated Girl Coding](https://media1.tenor.com/m/f440ySfSBfQAAAAC/takane-lui-hacker-man.gif)
 
